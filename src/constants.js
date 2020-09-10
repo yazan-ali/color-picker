@@ -1,0 +1,1 @@
+export const Drawer_Width = 525;
